@@ -1,4 +1,4 @@
-<img width="1919" height="474" alt="msk_handcuffs_banner" src="https://github.com/user-attachments/assets/07e9a40f-96f7-4f8c-a006-c492a4f17fb6" />
+<img width="1920" height="1080" alt="msk_handcuffs-banner" src="https://github.com/user-attachments/assets/79b17c0c-9cb6-4120-bc9b-0bc32edeb782" />
 
 <div align="center">
 
